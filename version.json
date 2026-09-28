@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.0.6",
-  "latestVersionCode": 7,
-  "minRequiredVersionCode": 6,
-  "minRequiredVersion": "1.0.5",
+  "latestVersion": "1.0.7",
+  "latestVersionCode": 8,
+  "minRequiredVersionCode": 7,
+  "minRequiredVersion": "1.0.6",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, yapay zeka analizleri ve portföy güvenliği için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
-    "Gelişmiş mum grafik ve akıcı pinch-to-zoom deneyimi",
-    "Piyasa ve gösterge panelinde yüksek performanslı izole render mimarisi",
-    "Güncel TEFAS fon ve piyasa veri akışı",
-    "Genel kararlılık ve performans iyileştirmeleri"
+    "YieldBot finansal okuryazarlık ve portföy çeşitlendirme simülasyonları güncellendi",
+    "Gümüş ve altın fonları ayrıştırılarak detaylı piyasa analizleri eklendi",
+    "Cutoff alarm ve bildirim arayüzünde görsel hizalama iyileştirmeleri yapıldı",
+    "Genel kararlılık ve performans optimizasyonları"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
