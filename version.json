@@ -1,15 +1,16 @@
 {
   "latestVersion": "1.0.5",
   "latestVersionCode": 6,
-  "minRequiredVersionCode": 6,
-  "minRequiredVersion": "1.0.5",
+  "minRequiredVersionCode": 5,
+  "minRequiredVersion": "1.0.4",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı ve portföy güvenliği için lütfen uygulamanızı güncelleyin.",
+  "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, yapay zeka analizleri ve portföy güvenliği için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
-    "Profil düzenleme ve harf filtreleme geliştirmeleri",
-    "Kurucu hesabı özel altın sarısı taç unvanı",
-    "Gelişmiş TEFAS veri akışı ve kararlılık iyileştirmeleri"
+    "Zorunlu güncelleme ve sürüm kontrol kalkanı",
+    "Eğitici YieldBot ve derin TEFAS fon analizleri",
+    "Portföy getiri ve kur senkronizasyonları",
+    "Hız, kararlılık ve performans iyileştirmeleri"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
