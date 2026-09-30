@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.0.7",
-  "latestVersionCode": 8,
-  "minRequiredVersionCode": 7,
-  "minRequiredVersion": "1.0.6",
-  "forceUpdate": false,
+  "latestVersion": "1.0.9",
+  "latestVersionCode": 10,
+  "minRequiredVersionCode": 9,
+  "minRequiredVersion": "1.0.8",
+  "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, portföy yönetimi ve hedef simülasyonları için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
-    "Özelleştirilebilir portföy sepetleri ve renk/ikon geliştirmeleri",
-    "FIRE Hedef Simülatörü tema ve arayüz geliştirmeleri",
-    "Portföy yönetimi ve klavye etkileşiminde kullanıcı deneyimi iyileştirmeleri",
-    "Genel kararlılık, paket güncellemeleri ve performans optimizasyonları"
+    "YieldBot finansal asistanı için 6 saatlik akıllı soru kotası ve sayaç entegrasyonu",
+    "Portföy ekranındaki varlık sınırlarının kaldırılarak sınırsız fon takibi desteği",
+    "YieldBot üst başlık, rozet ve arayüz oranlarının dengelenmesi",
+    "Pro üyelik ayrıcalıkları ve ekran düzenlemeleri"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
