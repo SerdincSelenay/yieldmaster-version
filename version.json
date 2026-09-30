@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.0.9",
   "latestVersionCode": 10,
-  "minRequiredVersionCode": 9,
-  "minRequiredVersion": "1.0.8",
+  "minRequiredVersionCode": 10,
+  "minRequiredVersion": "1.0.9",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, portföy yönetimi ve hedef simülasyonları için lütfen uygulamanızı güncelleyin.",
