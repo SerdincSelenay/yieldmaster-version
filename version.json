@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.1.0",
-  "latestVersionCode": 11,
-  "minRequiredVersionCode": 11,
-  "minRequiredVersion": "1.1.0",
+  "latestVersion": "1.1.1",
+  "latestVersionCode": 12,
+  "minRequiredVersionCode": 12,
+  "minRequiredVersion": "1.1.1",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, bulut portföy eşitleme ve yeni nesil finans asistanı için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
+    "YieldBot yapay zeka asistanı sohbet ve klavye etkileşim optimizasyonları",
+    "Ana sayfa arayüz sadeleştirmeleri ve menüden hızlı erişim geliştirmeleri",
     "TEFAS anlık piyasa verileri ve fon getirileri için sıfır gecikmeli küresel CDN dağıtım ağı",
     "Supabase merkezi bulut veritabanı ile cihazlar arası güvenli portföy eşitleme",
-    "Gelişmiş kullanıcı yönetimi ve güvenli şifre sıfırlama desteği",
-    "Google ile tek tıkla hızlı ve güvenli oturum açma desteği",
-    "Keşfet ekranında otomatik ve sessiz fiyat güncelleme optimizasyonları"
+    "Gelişmiş kullanıcı yönetimi ve güvenli şifre sıfırlama desteği"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
