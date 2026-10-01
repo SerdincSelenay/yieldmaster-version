@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.1.0",
   "latestVersionCode": 11,
-  "minRequiredVersionCode": 10,
-  "minRequiredVersion": "1.0.9",
-  "forceUpdate": false,
+  "minRequiredVersionCode": 11,
+  "minRequiredVersion": "1.1.0",
+  "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster'ın yeni sürümü Google Play'de yayınlandı. Kesintisiz veri akışı, bulut portföy eşitleme ve yeni nesil finans asistanı için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
