@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.1.5",
-  "latestVersionCode": 16,
-  "minRequiredVersionCode": 15,
-  "minRequiredVersion": "1.1.4",
+  "latestVersion": "1.1.6",
+  "latestVersionCode": 17,
+  "minRequiredVersionCode": 16,
+  "minRequiredVersion": "1.1.5",
   "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster'ın yeni sürümü yayınlandı. Bulut portföy senkronizasyonu, kişiselleştirilmiş tema & bildirim tercihleri ve varlık ekleme iyileştirmeleri için lütfen uygulamanızı güncelleyin.",
+  "message": "YieldMaster'ın yeni sürümü yayınlandı. Bulut portföy senkronizasyonu, kişiselleştirilmiş tema & bildirim tercihleri ve hesap restorasyon iyileştirmeleri için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
-    "Çoklu cüzdan ve sepetlerin Supabase bulut veritabanıyla kalıcı senkronizasyonu",
-    "FIRE Simülatörü birikim hedefleri ve finansal takvim etkinliklerinin buluta yedeklenmesi",
+    "Çoklu cüzdan, ek sepetler ve varlıkların Supabase bulut veritabanıyla kalıcı senkronizasyonu",
+    "FIRE Simülatörü birikim hedefleri ve finansal takvim etkinliklerinin buluta atomik yedeklenmesi",
     "Tema, dil, bildirimler ve portföy gizlilik modunun hesapta hatırlanması",
-    "Varlık ekleme ekranında temiz giriş alanları ve gri öneri ipuçları",
+    "Giriş ve oturum yenileme akışlarında veri tazeleme ve ekran senkronizasyonu iyileştirmeleri",
     "Genel performans ve veri akışı kararlılık iyileştirmeleri"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
