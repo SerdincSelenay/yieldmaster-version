@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.1.7",
-  "latestVersionCode": 18,
+  "latestVersion": "1.1.8",
+  "latestVersionCode": 19,
   "minRequiredVersionCode": 16,
   "minRequiredVersion": "1.1.5",
   "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster'ın yeni sürümü yayınlandı. Bulut portföy senkronizasyonu, kişiselleştirilmiş tema & bildirim tercihleri ve hesap restorasyon iyileştirmeleri için lütfen uygulamanızı güncelleyin.",
+  "message": "YieldMaster'ın yeni sürümü yayınlandı. Finansal takvim, anlık favori senkronizasyonu ve profil fotoğrafı bulut eşitleme geliştirmeleri için lütfen uygulamanızı güncelleyin.",
   "releaseNotes": [
-    "Çoklu cüzdan, ek sepetler ve varlıkların Supabase bulut veritabanıyla kalıcı senkronizasyonu",
-    "FIRE Simülatörü birikim hedefleri ve finansal takvim etkinliklerinin buluta atomik yedeklenmesi",
-    "Tema, dil, bildirimler ve portföy gizlilik modunun hesapta hatırlanması",
-    "Giriş ve oturum yenileme akışlarında veri tazeleme ve ekran senkronizasyonu iyileştirmeleri",
-    "Genel performans ve veri akışı kararlılık iyileştirmeleri"
+    "Finansal Takvim ekranındaki pencere açılış ve siyah ekran takılma sorunu tamamen giderildi",
+    "Favori fonların eklenip çıkarılmasında anlık bulut senkronizasyonu ve kalıcı hatırlama sağlandı",
+    "Kişiselleştirilmiş profil fotoğrafı ve avatar yedeklemesi bulut hesabıyla eksiksiz eşleştirildi",
+    "Favoriler sekmesinde fon türü ve şemsiye filtrelerinden bağımsız listeleme desteği eklendi",
+    "Genel performans ve arayüz kararlılık iyileştirmeleri"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
