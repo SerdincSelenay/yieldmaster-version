@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.2.3",
   "latestVersionCode": 24,
-  "minRequiredVersionCode": 16,
-  "minRequiredVersion": "1.1.5",
+  "minRequiredVersionCode": 24,
+  "minRequiredVersion": "1.2.3",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
   "message": "YieldMaster v1.2.3 yayında! Portföy modalı klavye yerleşimi, güncelleme bildirimleri ve sistem optimizasyonları için lütfen güncelleyin.",
