@@ -1,17 +1,16 @@
 {
-  "latestVersion": "1.1.9",
-  "latestVersionCode": 20,
+  "latestVersion": "1.2.1",
+  "latestVersionCode": 22,
   "minRequiredVersionCode": 16,
   "minRequiredVersion": "1.1.5",
   "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster'ın yeni sürümü yayınlandı. Akıllı yapay zeka asistanı sohbet yetenekleri, tam kapsamlı bulut yedekleme ve mağaza uyum geliştirmeleri için lütfen güncelleyin.",
+  "message": "YieldMaster v1.2.1 yayında! Portföy profil avatarları, fon simülatörü ve mevduat analizi geliştirmeleri için lütfen güncelleyin.",
   "releaseNotes": [
-    "YieldBot yapay zekâ asistanına anlık sohbet, selamlama ve hal-hatır diyalogları sıfır gecikmeyle entegre edildi",
-    "Tüm sepetler, fon lotları, FIRE simülatör hedefleri, alarm ve arayüz tercihleri tek paket halinde buluta bağlandı",
-    "Google Play ve KVKK uyumlu kalıcı bulut veri temizleme ve hesap silme altyapısı devreye alındı",
-    "PRO abonelik ekranına doğrudan erişilebilir Gizlilik Politikası ve Kullanım Koşulları bağlantıları eklendi",
-    "Canlı piyasa verileri ve döviz/altın fiyat akışında mobil ağ kararlılık iyileştirmeleri yapıldı"
+    "Portföy ekranına kişisel profil avatarları ve PRO taç rozeti gösterimi eklendi",
+    "Fon Simülatörü ve YieldBot AI özet kartı görsel tasarımı, kenarlık ve hizalamaları mükemmelleştirildi",
+    "Mevduat Karşılaştırma modülünde dinamik brüt başabaş oranı ve kazanan analizi mantığı optimize edildi",
+    "Varlık ekleme ve vergi kalkanı tutar girişlerindeki klavye etkileşimleri ve sıfır silme deneyimi iyileştirildi"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
