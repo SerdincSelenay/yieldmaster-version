@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.2.1",
-  "latestVersionCode": 22,
+  "latestVersion": "1.2.2",
+  "latestVersionCode": 23,
   "minRequiredVersionCode": 16,
   "minRequiredVersion": "1.1.5",
   "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.1 yayında! Portföy profil avatarları, fon simülatörü ve mevduat analizi geliştirmeleri için lütfen güncelleyin.",
+  "message": "YieldMaster v1.2.2 yayında! Mevduat kıyaslayıcı bas-tut butonları, klavye uyumluluğu ve performans iyileştirmeleri için lütfen güncelleyin.",
   "releaseNotes": [
-    "Portföy ekranına kişisel profil avatarları ve PRO taç rozeti gösterimi eklendi",
-    "Fon Simülatörü ve YieldBot AI özet kartı görsel tasarımı, kenarlık ve hizalamaları mükemmelleştirildi",
-    "Mevduat Karşılaştırma modülünde dinamik brüt başabaş oranı ve kazanan analizi mantığı optimize edildi",
-    "Varlık ekleme ve vergi kalkanı tutar girişlerindeki klavye etkileşimleri ve sıfır silme deneyimi iyileştirildi"
+    "Mevduat vs Fon Kıyaslayıcı ekranına butonlara basılı tutarak hızlı ve akıcı oran ayarlama özelliği eklendi",
+    "Varlık ekleme penceresindeki klavye açılma ve kaydırma deneyimi tüm cihazlar için kusursuzlaştırıldı",
+    "Fon listesi kartlarındaki tarih rozeti sadeleştirildi",
+    "Portföy profil avatarları ve genel sistem kararlılığı optimize edildi"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
