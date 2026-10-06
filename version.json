@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 23,
+  "latestVersion": "1.2.3",
+  "latestVersionCode": 24,
   "minRequiredVersionCode": 16,
   "minRequiredVersion": "1.1.5",
   "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.2 yayında! Mevduat kıyaslayıcı bas-tut butonları, klavye uyumluluğu ve performans iyileştirmeleri için lütfen güncelleyin.",
+  "message": "YieldMaster v1.2.3 yayında! Portföy modalı klavye yerleşimi, güncelleme bildirimleri ve sistem optimizasyonları için lütfen güncelleyin.",
   "releaseNotes": [
-    "Mevduat vs Fon Kıyaslayıcı ekranına butonlara basılı tutarak hızlı ve akıcı oran ayarlama özelliği eklendi",
-    "Varlık ekleme penceresindeki klavye açılma ve kaydırma deneyimi tüm cihazlar için kusursuzlaştırıldı",
-    "Fon listesi kartlarındaki tarih rozeti sadeleştirildi",
-    "Portföy profil avatarları ve genel sistem kararlılığı optimize edildi"
+    "Varlık ekleme penceresinin klavye açıldığında yukarı hizalanması ve kaydet butonunun tam görünürlüğü sağlandı",
+    "Mevduat vs Fon Kıyaslayıcı ekranına butonlara basılı tutarak akıcı oran ayarlama özelliği eklendi",
+    "Uygulama içi yeni sürüm bildirim mekanizması mükemmelleştirildi",
+    "Fon listesi kartlarındaki tarih rozeti sadeleştirildi"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
