@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.2.4",
-  "latestVersionCode": 25,
-  "minRequiredVersionCode": 25,
-  "minRequiredVersion": "1.2.4",
+  "latestVersion": "1.2.5",
+  "latestVersionCode": 26,
+  "minRequiredVersionCode": 26,
+  "minRequiredVersion": "1.2.5",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.4 yayında! Açılış ekranı siyah ekran düzeltmesi, klavye uyumluluğu ve sistem optimizasyonları için lütfen güncelleyin.",
+  "message": "YieldMaster v1.2.5 yayında! Canlı TEFAS fiyat senkronizasyon optimizasyonları, arayüz sadeleştirmesi ve kararlılık iyileştirmeleri için lütfen güncelleyin.",
   "releaseNotes": [
-    "Uygulama açılışındaki siyah ekran beklemesi tamamen sıfırlandı; anında akıcı geçiş sağlandı",
-    "Varlık ekleme penceresinin ve kaydet butonunun klavye üstünde net görünürlüğü güvenceye alındı",
-    "Uygulama içi yeni sürüm bildirim mekanizması mükemmelleştirildi",
+    "Canlı TEFAS fon ve fiyat senkronizasyon altyapısı yüksek frekanslı otomatik takiple güçlendirildi",
+    "Arayüz geliştirici test çubuklarından arındırıldı ve tam sürüme uyarlandı",
+    "Portföy, tema ve profil verilerinin bulut senkronizasyonu mükemmelleştirildi",
     "Sistem kararlılık ve performans optimizasyonları tamamlandı"
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
