@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.2.5",
-  "latestVersionCode": 26,
-  "minRequiredVersionCode": 26,
-  "minRequiredVersion": "1.2.5",
+  "latestVersion": "1.2.6",
+  "latestVersionCode": 27,
+  "minRequiredVersionCode": 27,
+  "minRequiredVersion": "1.2.6",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.5 yayında! Canlı TEFAS fiyat senkronizasyon optimizasyonları, arayüz sadeleştirmesi ve kararlılık iyileştirmeleri için lütfen güncelleyin.",
+  "message": "YieldMaster v1.2.6 yayında! Canlı lansman öncesi kararlılık paketi: TEFAS son işlem alarmları donanımsal bazda optimize edildi, arka plan ve portföy senkronizasyonu güçlendirildi.",
   "releaseNotes": [
-    "Canlı TEFAS fon ve fiyat senkronizasyon altyapısı yüksek frekanslı otomatik takiple güçlendirildi",
-    "Arayüz geliştirici test çubuklarından arındırıldı ve tam sürüme uyarlandı",
-    "Portföy, tema ve profil verilerinin bulut senkronizasyonu mükemmelleştirildi",
-    "Sistem kararlılık ve performans optimizasyonları tamamlandı"
+    "🔔 Akıllı Seans Radarı: 13:30 son işlem alarmları ve valör uyarıları kesin donanımsal zamanlama mimarisine kavuşturuldu.",
+    "🌙 Gece & Tatil Koruması: Seans dışı saatlerde ve gece vakitlerinde gereksiz bildirim oluşması kesin olarak engellendi.",
+    "⚡ Canlı TEFAS & Bulut Senkronizasyonu: Günlük fon fiyatlandırması ve portföy bulut senkronizasyonu hızlandırıldı.",
+    "🛡️ Lansman Öncesi Tam Kararlılık: Pil tüketimi, bellek yönetimi ve sistem performansı optimize edildi."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
