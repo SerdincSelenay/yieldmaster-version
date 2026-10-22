@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.2.8",
-  "latestVersionCode": 29,
-  "minRequiredVersionCode": 29,
-  "minRequiredVersion": "1.2.8",
+  "latestVersion": "1.2.9",
+  "latestVersionCode": 30,
+  "minRequiredVersionCode": 30,
+  "minRequiredVersion": "1.2.9",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.8 yayında! Portföy ve para girişlerinde otomatik binlik basamak ayraçları ve küsürat virgülü desteği eklendi; yukarıdan aşağı çekerek yenileme (Pull-to-refresh) ve anlık canlı fiyat senkronizasyonu geliştirildi.",
+  "message": "YieldMaster v1.2.9 yayında! Portföy çekerek yenilemede (Pull-to-refresh) canlı fiyat koruma kalkanı devrede; ilk kurulumda otomatik cihaz dili algılama ve akıllı fon haberleri filtrelemesi eklendi.",
   "releaseNotes": [
-    "💰 Akıllı Para Formatı: Portföy ve mevduat tutarı girişlerinde otomatik binlik nokta (.) ve küsürat virgülü (,) desteği.",
-    "🔄 Çekerek Yenileme (Pull-to-Refresh): Portföy ekranında yukarıdan aşağı kaydırarak TEFAS fonları ve piyasa kurlarını anında canlı güncelleme.",
-    "⚡ Anlık Portföy Değerlemesi: Yeni varlık eklendiğinde veya sepetler arası geçişte sıfır gecikmeli dinamik kâr/zarar hesaplaması."
+    "🛡️ Canlı Portföy Kalkanı: Sayfayı aşağı çekerek yenilediğinizde TEFAS anlık canlı fiyatlarının korunması sağlandı, değerin geri düşme sorunu giderildi.",
+    "🌐 Akıllı Dil Algılama: Uygulama ilk yüklendiğinde cihazın sistem diline göre otomatik Türkçe/İngilizce başlatma desteği.",
+    "📰 Filtrelenmiş Fon Haberleri: Fon bültenlerindeki alakasız genel içerikler elendi, doğrudan yatırım odaklı haber akışı sağlandı."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
