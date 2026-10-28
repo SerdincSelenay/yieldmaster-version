@@ -1,15 +1,13 @@
 {
-  "latestVersion": "1.3.0",
-  "latestVersionCode": 31,
-  "minRequiredVersionCode": 31,
-  "minRequiredVersion": "1.3.0",
-  "forceUpdate": true,
+  "latestVersion": "1.2.9",
+  "latestVersionCode": 30,
+  "minRequiredVersionCode": 30,
+  "minRequiredVersion": "1.2.9",
+  "forceUpdate": false,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.3.0 yayında! Giriş/Kayıt ekranına kolay dil değiştirme paneli ve hızlı kapatma butonu eklendi; kararlılık ve performans iyileştirmeleri sağlandı.",
+  "message": "YieldMaster güncel sürümü yayında.",
   "releaseNotes": [
-    "🌐 Hızlı Dil Değiştirici: Giriş ekranında tek dokunuşla Türkçe ve İngilizce dilleri arasında kolayca geçiş yapabilme imkanı.",
-    "✨ Geliştirilmiş Deneyim: Giriş ekranı üst kapatma butonu ve görsel arayüz optimizasyonları.",
-    "⚡ Kararlılık ve Altyapı: Sentry hata izleme filtreleri ve veri servislerinde performans güncellemeleri."
+    "Performans ve kararlılık iyileştirmeleri."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
