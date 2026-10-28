@@ -1,16 +1,15 @@
 {
-  "latestVersion": "1.2.9",
-  "latestVersionCode": 30,
-  "minRequiredVersionCode": 30,
-  "minRequiredVersion": "1.2.9",
+  "latestVersion": "1.3.0",
+  "latestVersionCode": 31,
+  "minRequiredVersionCode": 31,
+  "minRequiredVersion": "1.3.0",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.2.9 yayında! Portföy çekerek yenilemede (Pull-to-refresh) canlı fiyat koruma kalkanı devrede; ilk kurulumda otomatik cihaz dili algılama ve akıllı fon haberleri filtrelemesi eklendi.",
+  "message": "YieldMaster v1.3.0 yayında! Giriş/Kayıt ekranına kolay dil değiştirme paneli ve hızlı kapatma butonu eklendi; kararlılık ve performans iyileştirmeleri sağlandı.",
   "releaseNotes": [
-    "🛡️ Canlı Portföy Kalkanı: Sayfayı aşağı çekerek yenilediğinizde TEFAS anlık canlı fiyatlarının korunması sağlandı, değerin geri düşme sorunu giderildi.",
-    "🌐 Akıllı Dil Algılama: Uygulama ilk yüklendiğinde cihazın sistem diline göre otomatik Türkçe/İngilizce başlatma desteği.",
-    "📰 Filtrelenmiş Fon Haberleri: Fon bültenlerindeki alakasız genel içerikler elendi, doğrudan yatırım odaklı haber akışı sağlandı."
+    "🌐 Hızlı Dil Değiştirici: Giriş ekranında tek dokunuşla Türkçe ve İngilizce dilleri arasında kolayca geçiş yapabilme imkanı.",
+    "✨ Geliştirilmiş Deneyim: Giriş ekranı üst kapatma butonu ve görsel arayüz optimizasyonları.",
+    "⚡ Kararlılık ve Altyapı: Sentry hata izleme filtreleri ve veri servislerinde performans güncellemeleri."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
-
