@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.3.1",
-  "latestVersionCode": 32,
-  "minRequiredVersionCode": 32,
-  "minRequiredVersion": "1.3.1",
+  "latestVersion": "1.3.2",
+  "latestVersionCode": 33,
+  "minRequiredVersionCode": 33,
+  "minRequiredVersion": "1.3.2",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.3.1 yayında! Portföy canlı veri doğrulamaları, getiri yenileme kararlılığı ve Keşfet filtre hafızası iyileştirildi.",
+  "message": "YieldMaster v1.3.2 yayında! PRO ayrıcalık deneyimi ve genel kararlılık güncellemeleri tamamlandı.",
   "releaseNotes": [
-    "📈 Portföy Canlı Veri Koruması: TEFAS anlık fiyatlarının yenileme sonrasında bayat önbellekle ezilmesi engellendi, güncel portföy değeri koruma altına alındı.",
-    "🔍 Keşfet Filtre Hafızası: Filtreleme ve arama sonrasında portföye fon eklendiğinde filtrelerin sıfırlanması sorunu giderildi.",
-    "⚡ Hızlı Açılış & Senkronizasyon: Açılış sırasında portföy fonlarının canlı değerleri önceden hazırlanarak anında güncel rakamla açılması sağlandı."
+    "👑 PRO & Ayrıcalık Deneyimi: Gelişmiş portföy ve yapay zeka özellikleri çok yakında mağazada aktif olacak şekilde güncellendi.",
+    "🌐 Çift Dil Uyumluluğu: Tüm yönlendirmeler ve bildirimler Türkçe ve İngilizce için kusursuz hale getirildi.",
+    "⚡ Kararlılık & Hız: Performans ve arayüz tepkiselliği artırıldı."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
