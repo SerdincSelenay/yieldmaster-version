@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.3.2",
-  "latestVersionCode": 33,
-  "minRequiredVersionCode": 33,
-  "minRequiredVersion": "1.3.2",
+  "latestVersion": "1.3.3",
+  "latestVersionCode": 34,
+  "minRequiredVersionCode": 34,
+  "minRequiredVersion": "1.3.3",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.3.2 yayında! PRO ayrıcalık deneyimi ve genel kararlılık güncellemeleri tamamlandı.",
+  "message": "YieldMaster v1.3.3 yayında! TEFAS seans ve valör alarmları mutlak zaman dilimi koruması ve yüksek hassasiyetle güncellendi.",
   "releaseNotes": [
-    "👑 PRO & Ayrıcalık Deneyimi: Gelişmiş portföy ve yapay zeka özellikleri çok yakında mağazada aktif olacak şekilde güncellendi.",
-    "🌐 Çift Dil Uyumluluğu: Tüm yönlendirmeler ve bildirimler Türkçe ve İngilizce için kusursuz hale getirildi.",
+    "⏰ TEFAS Seans & Valör Alarmları: Bildirim zamanlamaları saat diliminden bağımsız olarak tam seans saatine sabitlendi.",
+    "🛡️ Çelik Zırh Kalkanı: Gecikmeli veya uygunsuz saatlerde bildirim gösterilmesini engelleyen çok katmanlı koruma sistemi devreye alındı.",
     "⚡ Kararlılık & Hız: Performans ve arayüz tepkiselliği artırıldı."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
