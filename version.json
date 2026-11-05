@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.3.3",
-  "latestVersionCode": 34,
-  "minRequiredVersionCode": 34,
-  "minRequiredVersion": "1.3.3",
+  "latestVersion": "1.3.5",
+  "latestVersionCode": 36,
+  "minRequiredVersionCode": 36,
+  "minRequiredVersion": "1.3.5",
   "forceUpdate": true,
   "title": "Yeni Güncelleme Mevcut! 🚀",
-  "message": "YieldMaster v1.3.3 yayında! TEFAS seans ve valör alarmları mutlak zaman dilimi koruması ve yüksek hassasiyetle güncellendi.",
+  "message": "YieldMaster v1.3.5 yayında! PRO özellikleri ve abonelik entegrasyonu güncellendi, kararlılık ve performans iyileştirmeleri yapıldı.",
   "releaseNotes": [
-    "⏰ TEFAS Seans & Valör Alarmları: Bildirim zamanlamaları saat diliminden bağımsız olarak tam seans saatine sabitlendi.",
-    "🛡️ Çelik Zırh Kalkanı: Gecikmeli veya uygunsuz saatlerde bildirim gösterilmesini engelleyen çok katmanlı koruma sistemi devreye alındı.",
-    "⚡ Kararlılık & Hız: Performans ve arayüz tepkiselliği artırıldı."
+    "👑 PRO Entegrasyonu: Abonelik ve PRO erişim kontrolleri optimize edildi.",
+    "⚡ Kararlılık & Derleme: iOS ve Android platformları için yapılandırma ve uyumluluk iyileştirmeleri yapıldı.",
+    "🎯 Hata Düzeltmeleri: Bildirim zamanlamaları ve arayüz akışlarında kararlılık artırıldı."
   ],
   "storeUrl": "market://details?id=com.s3rlabs.yieldmaster"
 }
